@@ -11,6 +11,7 @@
 *.run.xml
 
 */.virtual_documents/*
+*/*/.virtual_documents/*
 
 z_old/*
 
